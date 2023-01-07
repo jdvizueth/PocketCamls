@@ -1,0 +1,19 @@
+Thank You for downloading our game, PocketCaml™️
+
+Please make sure to follow the instructions below step-by-step:
+
+- make sure to install necessary modules using OPAM, if not already installed.
+    $ opam install ANSITerminal odoc ounit2 dune
+
+- Make sure to run "dune build" before attempting to play
+    $ dune build
+
+- Finally, run "make play" to load the game
+    $ make play
+
+- To run ounit2 test cases, run "make test"
+    $ make test
+
+That's it! You are now ready to play PocketCaml™️
+
+Enjoy!
